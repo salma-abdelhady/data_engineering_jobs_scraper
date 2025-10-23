@@ -5,7 +5,7 @@ import numpy as np
 import time
 import mysql.connector
 
-BASE_URL = "https://findajob.dwp.gov.uk/search?loc=86383&q=data%20engineering&page={}"
+url = "https://findajob.dwp.gov.uk/search?loc=86383&q=data%20engineering&page={}"
 
 titles, links, dates, companies, locations, salaries = [], [], [], [], [], []
 
@@ -13,7 +13,7 @@ page = 1
 max_pages = 50
 
 while page <= max_pages:
-    url = BASE_URL.format(page)
+    url = url.format(page)
     response = requests.get(url)
     assert response.status_code == 200
 
@@ -121,3 +121,4 @@ cursor.executemany(sql, data)
 conn.commit()
 cursor.close()
 conn.close()
+
