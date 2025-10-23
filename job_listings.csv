@@ -1,0 +1,511 @@
+,title,link,date_posted,company_name,location,experience_level,min_salary,max_salary
+0,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+1,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+2,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+3,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+4,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+5,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+6,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+7,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+8,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+9,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+10,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+11,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+12,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+13,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+14,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+15,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+16,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+17,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+18,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+19,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+20,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+21,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+22,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+23,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+24,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+25,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+26,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+27,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+28,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+29,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+30,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+31,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+32,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+33,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+34,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+35,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+36,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+37,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+38,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+39,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+40,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+41,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+42,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+43,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+44,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+45,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+46,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+47,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+48,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+49,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+50,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+51,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+52,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+53,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+54,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+55,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+56,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+57,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+58,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+59,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+60,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+61,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+62,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+63,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+64,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+65,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+66,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+67,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+68,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+69,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+70,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+71,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+72,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+73,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+74,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+75,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+76,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+77,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+78,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+79,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+80,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+81,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+82,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+83,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+84,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+85,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+86,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+87,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+88,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+89,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+90,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+91,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+92,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+93,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+94,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+95,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+96,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+97,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+98,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+99,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+100,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+101,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+102,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+103,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+104,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+105,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+106,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+107,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+108,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+109,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+110,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+111,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+112,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+113,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+114,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+115,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+116,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+117,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+118,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+119,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+120,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+121,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+122,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+123,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+124,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+125,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+126,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+127,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+128,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+129,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+130,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+131,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+132,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+133,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+134,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+135,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+136,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+137,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+138,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+139,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+140,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+141,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+142,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+143,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+144,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+145,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+146,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+147,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+148,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+149,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+150,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+151,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+152,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+153,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+154,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+155,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+156,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+157,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+158,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+159,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+160,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+161,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+162,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+163,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+164,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+165,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+166,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+167,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+168,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+169,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+170,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+171,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+172,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+173,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+174,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+175,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+176,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+177,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+178,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+179,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+180,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+181,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+182,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+183,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+184,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+185,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+186,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+187,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+188,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+189,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+190,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+191,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+192,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+193,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+194,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+195,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+196,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+197,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+198,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+199,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+200,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+201,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+202,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+203,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+204,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+205,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+206,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+207,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+208,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+209,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+210,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+211,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+212,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+213,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+214,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+215,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+216,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+217,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+218,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+219,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+220,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+221,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+222,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+223,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+224,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+225,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+226,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+227,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+228,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+229,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+230,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+231,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+232,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+233,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+234,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+235,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+236,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+237,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+238,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+239,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+240,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+241,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+242,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+243,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+244,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+245,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+246,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+247,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+248,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+249,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+250,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+251,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+252,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+253,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+254,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+255,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+256,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+257,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+258,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+259,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+260,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+261,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+262,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+263,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+264,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+265,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+266,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+267,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+268,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+269,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+270,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+271,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+272,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+273,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+274,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+275,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+276,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+277,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+278,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+279,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+280,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+281,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+282,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+283,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+284,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+285,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+286,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+287,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+288,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+289,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+290,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+291,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+292,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+293,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+294,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+295,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+296,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+297,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+298,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+299,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+300,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+301,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+302,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+303,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+304,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+305,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+306,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+307,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+308,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+309,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+310,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+311,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+312,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+313,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+314,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+315,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+316,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+317,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+318,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+319,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+320,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+321,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+322,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+323,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+324,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+325,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+326,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+327,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+328,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+329,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+330,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+331,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+332,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+333,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+334,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+335,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+336,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+337,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+338,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+339,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+340,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+341,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+342,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+343,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+344,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+345,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+346,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+347,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+348,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+349,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+350,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+351,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+352,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+353,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+354,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+355,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+356,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+357,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+358,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+359,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+360,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+361,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+362,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+363,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+364,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+365,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+366,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+367,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+368,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+369,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+370,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+371,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+372,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+373,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+374,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+375,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+376,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+377,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+378,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+379,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+380,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+381,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+382,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+383,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+384,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+385,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+386,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+387,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+388,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+389,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+390,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+391,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+392,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+393,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+394,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+395,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+396,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+397,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+398,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+399,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+400,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+401,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+402,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+403,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+404,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+405,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+406,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+407,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+408,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+409,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+410,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+411,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+412,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+413,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+414,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+415,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+416,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+417,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+418,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+419,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+420,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+421,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+422,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+423,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+424,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+425,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+426,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+427,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+428,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+429,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+430,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+431,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+432,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+433,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+434,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+435,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+436,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+437,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+438,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+439,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+440,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+441,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+442,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+443,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+444,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+445,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+446,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+447,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+448,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+449,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+450,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+451,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+452,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+453,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+454,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+455,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+456,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+457,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+458,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+459,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+460,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+461,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+462,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+463,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+464,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+465,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+466,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+467,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+468,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+469,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+470,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+471,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+472,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+473,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+474,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+475,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+476,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+477,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+478,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+479,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+480,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+481,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+482,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+483,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+484,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+485,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+486,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+487,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+488,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+489,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+490,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+491,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+492,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+493,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+494,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+495,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+496,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+497,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+498,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+499,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
+500,Data Engineer,https://findajob.dwp.gov.uk/details/17322580,2025-10-17,Thames Water,"Reading, Home Counties, RG1 8DB",Entry,70000.0,70000.0
+501,Data Engineer,https://findajob.dwp.gov.uk/details/17235547,2025-10-01,The Compleat Food Group,England,Entry,45.0,50000.0
+502,Data Engineer,https://findajob.dwp.gov.uk/details/17242733,2025-10-02,Kingston Council,"Kingston Upon Thames, South West London",Entry,46968.0,58461.0
+503,Data Engineer,https://findajob.dwp.gov.uk/details/17326908,2025-10-17,The Inn Collection Group,"Newcastle upon Tyne, NE12 8BS",Entry,,
+504,Data Engineer,https://findajob.dwp.gov.uk/details/17275996,2025-10-08,Lloyds Banking Group,"Bristol, Bristol, BS1 5LF",Entry,47790.0,53100.0
+505,Data Engineer,https://findajob.dwp.gov.uk/details/17275998,2025-10-08,Lloyds Banking Group,"Leeds, West Yorkshire, LS1 4AP",Entry,47790.0,53100.0
+506,Data Engineer,https://findajob.dwp.gov.uk/details/17276000,2025-10-08,Lloyds Banking Group,"Halifax, West Yorkshire, HX1 2RG",Entry,47790.0,53100.0
+507,Data Engineer,https://findajob.dwp.gov.uk/details/17330029,2025-10-18,DWP Digital,"Newcastle upon Tyne, Tyne and Wear, NE7 7NE",Entry,44447.0,53347.0
+508,Data Engineer,https://findajob.dwp.gov.uk/details/17298303,2025-10-13,Government Recruitment Service,NE98 1YX,Entry,44447.0,53347.0
+509,Data Engineer,https://findajob.dwp.gov.uk/details/17284176,2025-10-09,Pancreatic Cancer UK,"London, EC3R 8AD",Entry,36158.0,36158.0
