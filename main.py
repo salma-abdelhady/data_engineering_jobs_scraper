@@ -5,6 +5,7 @@ import numpy as np
 import time
 import mysql.connector
 
+# Extract
 url = "https://findajob.dwp.gov.uk/search?loc=86383&q=data%20engineering&page={}"
 
 titles, links, dates, companies, locations, salaries = [], [], [], [], [], []
@@ -59,18 +60,23 @@ df = pd.DataFrame({
 
 print(f"\nTotal jobs scraped: {len(df)}")
 
+# Transform
 df['date_posted'] = pd.to_datetime(df['date_posted'], errors='coerce')
 
 def experience_level(title):
     title_lower = title.lower()
     if 'senior' in title_lower:
-        return 'Senior'
+        return 'senior'
+    elif 'climate' in title_lower:
+        return 'Climate'
     elif 'lead' in title_lower:
         return 'Lead'
-    elif 'junior' in title_lower or 'entry' in title_lower:
+    elif 'clinical' in title_lower:
+        return 'Clinical'
+    elif 'data engineer' in title_lower:
         return 'Entry'
     else:
-        return 'Other'
+        return 'Others'
 
 df['experience_level'] = df['title'].apply(experience_level)
 
@@ -79,26 +85,43 @@ def parse_salary(s):
         return np.nan, np.nan
 
     s = s.replace('£', '').replace(',', '').lower().strip()
+
     if 'to' in s:
         parts = s.split('to')
+        try:
+            min_s = float(parts[0].strip().replace('k', '')) * (1000 if 'k' in parts[0] else 1)
+            max_s = float(parts[1].split()[0].strip().replace('k', '')) * (1000 if 'k' in parts[1] else 1)
+            return min_s, max_s
+        except:
+            return np.nan, np.nan
+
     elif '-' in s:
         parts = s.split('-')
-    else:
-        parts = [s, s]
+        try:
+            min_s = float(parts[0].strip().replace('k', '')) * (1000 if 'k' in parts[0] else 1)
+            max_s = float(parts[1].split()[0].strip().replace('k', '')) * (1000 if 'k' in parts[1] else 1)
+            return min_s, max_s
+        except:
+            return np.nan, np.nan
 
-    try:
-        min_s = float(parts[0].split()[0].replace('k', '')) * (1000 if 'k' in parts[0] else 1)
-        max_s = float(parts[1].split()[0].replace('k', '')) * (1000 if 'k' in parts[1] else 1)
-        return min_s, max_s
-    except:
-        return np.nan, np.nan
+    # single values
+    else:
+        try:
+            value = float(s.split()[0].replace('k', '')) * (1000 if 'k' in s else 1)
+            if 'hour' in s:
+                value *= 40 * 52  # Approx yearly
+            elif 'day' in s:
+                value *= 5 * 52
+            return value, value
+        except:
+            return np.nan, np.nan
 
 df[['min_salary', 'max_salary']] = df['salary'].apply(lambda x: pd.Series(parse_salary(x)))
 df.drop(columns=['salary'], inplace=True)
 
 df.to_csv('job_listings.csv', index=False)
 
-# Save to MySQL
+# Load
 conn = mysql.connector.connect(
     host='localhost',
     user='root',
@@ -113,12 +136,16 @@ INSERT INTO jobs_data
 VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
 """
 
+# Convert DataFrame to list of tuples
 data = [tuple(x) for x in df[[
     "title", "link", "date_posted", "company_name", "location", "min_salary", "max_salary", "experience_level"
 ]].values]
 
+# Insert all rows
 cursor.executemany(sql, data)
 conn.commit()
+
 cursor.close()
 conn.close()
+
 
