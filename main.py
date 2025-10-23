@@ -119,13 +119,19 @@ def parse_salary(s):
 df[['min_salary', 'max_salary']] = df['salary'].apply(lambda x: pd.Series(parse_salary(x)))
 df.drop(columns=['salary'], inplace=True)
 
-df.to_csv('job_listings.csv', index=False)
+df.to_csv('job_listings.csv')
 
 # Load
+df = pd.read_csv("job_listings.csv")
+
+df = df.where(pd.notnull(df), None)
+df['min_salary'] = df['min_salary'].fillna(0)
+df['max_salary'] = df['max_salary'].fillna(0)
+
 conn = mysql.connector.connect(
     host='localhost',
     user='root',
-    password='YOUR_PASSWORD',
+    password='pass',
     database='jobs_db'
 )
 cursor = conn.cursor()
@@ -147,5 +153,6 @@ conn.commit()
 
 cursor.close()
 conn.close()
+
 
 
