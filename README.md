@@ -11,5 +11,3 @@ Scrapes and parses semi-structured HTML job listings
 Cleans and transforms data: salary normalization, experience-level classification, date parsing
 
 Loads processed data into MySQL for querying and analysis
-
-Tech Stack: Python · Pandas · BeautifulSoup · Requests · MySQL ·
