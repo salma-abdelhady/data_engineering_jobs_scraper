@@ -1,13 +1,17 @@
 # Data Engineering Jobs Scraper
 
-An end-to-end ETL pipeline that scrapes Data Engineering job listings from the [UK Find a Job
-portal](https://findajob.dwp.gov.uk).
-It extracts job titles, companies, locations, salaries, experience levels, and links, then stores the cleaned data in MySQL and CSV for analysis.
+End-to-End ETL pipeline that scrapes Data Engineering job listings from the UK Find a Job portal, transforms semi-structured data (salaries, experience levels, dates), and loads the cleaned dataset into MySQL and CSV for analysis.
 
-Built with Python, Pandas, BeautifulSoup, and Requests
+Data Source: https://findajob.dwp.gov.uk
 
-Scrapes and parses semi-structured HTML job listings
 
-Cleans and transforms data: salary normalization, experience-level classification, date parsing
+Tech Stack: Python, Requests, BeautifulSoup, Pandas, MySQL
 
-Loads processed data into MySQL for querying and analysis
+
+Key Features:
+
+Web scraping of Data Engineering job postings
+
+Salary normalization and parsing
+
+Data loading into MySQL and CSV
